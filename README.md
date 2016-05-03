@@ -6,12 +6,12 @@ So this project is a basic first person infinite runner game; that can be turned
 <h3>Tutorials</h3>
 The tutorials about how to create integrate Kinect and oculus are at 
 <ul>
-<li>https://thenappingkat.azurewebsites.net/unity-gaming-oculus-integration-unity-5/</li>
-<li>https://thenappingkat.azurewebsites.net/unity-gaming-integrating-kinect-part-1/</li>
+<li>https://katvharris.azurewebsites.net/unity-gaming-oculus-integration-unity-5/</li>
+<li>https://katvharris.azurewebsites.net/unity-gaming-integrating-kinect-part-1/</li>
 </ul>
 
 And if you want to learn how to create your own infinite runner the Unity Gaming Series steps through all the modules. The first post is here
-https://thenappingkat.azurewebsites.net/unity-gaming-unity-good-practices/
+https://katvharris.azurewebsites.net/unity-gaming-unity-good-practices/
 
 <h3>Supplies</h3>
 <ul>
