@@ -28,3 +28,5 @@ https://katvharris.azurewebsites.net/unity-gaming-unity-good-practices/
 
 **Mac users** you will not be able to work with the Kinect unless you have Bootcamp installed (or some other way to partition your hard drive) with a windows OS, sorry.
 
+**OCULUS USERS** With the new updates to the Oculus runtime you need to make sure you have the proper Hardware requirements to run or add it to your game. https://www.oculus.com/en-us/oculus-ready-pcs/
+
